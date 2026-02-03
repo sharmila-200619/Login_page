@@ -82,7 +82,7 @@ This helps in monitoring how long users stay logged in.
 (https://github.com/user-attachments/assets/f2d4a3c4-3282-454b-97f6-43e5211631c8)
 
 
-## ▶️ How to Run the Project!(https://github.com/user-attachments/assets/f2d4a3c4-3282-454b-97f6-43e5211631c8)
+## ▶️ How to Run the Project!
 
 1. Install required package:
 ```bash
