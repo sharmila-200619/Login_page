@@ -1,4 +1,4 @@
-# Login_page
+![WhatsApp Image 2026-02-03 at 7 50 33 AM (1)](https://github.com/user-attachments/assets/d477e033-d3f6-411c-9ee3-e3e7792d4936)# Login_page
 Basic login page with both admin and user dashboard
 
 # Login System with User Time Tracking
@@ -79,7 +79,9 @@ This helps in monitoring how long users stay logged in.
 (https://github.com/user-attachments/assets/cb6353b4-6885-44d1-955e-0a4ed0b847cb)
 
 ### 🔹 Admin Dashboard
-(https://github.com/user-attachments/assets/f2d4a3c4-3282-454b-97f6-43e5211631c8)
+
+(https://github.com/user-attachments/assets/92007663-6304-4613-a29c-ed71c24976c5)
+
 
 
 ## ▶️ How to Run the Project!
